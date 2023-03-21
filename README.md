@@ -27,6 +27,10 @@ I'm a Software Developer with experience in Node.js, Python, and SourcePawn. I'm
 
 [![akanora's github stats](https://github-readme-stats.vercel.app/api?username=akanora&show_icons=true&theme=radical)](https://github.com/akanora)
 
+## 💡 Contributions
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akanora&theme=dracula)](https://github.com/akanora/github-readme-activity-graph)
+
 
 <!--
 **akanora/akanora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
