@@ -3,7 +3,7 @@
 I'm a Software Developer with experience in Node.js, Python, and SourcePawn. I'm passionate about playing games and building things that bring people together. Currently, I'm developing CSGO servers and building a Discord bots for fun.
 
 <!-- Your Social Media and Portfolio Links -->
-[![Discord](https://img.shields.io/badge/Discord-norabhop%239732-informational?style=for-the-badge&logo=discord&logoColor=white&color=blue)](https://discord.com/users/544567870776934431)
+[![Discord](https://img.shields.io/badge/Discord-Nora#1768%239732-informational?style=for-the-badge&logo=discord&logoColor=white&color=blue)](https://discord.com/users/544567870776934431)
 [![Twitter](https://img.shields.io/twitter/follow/norabhop?color=blue&label=Twitter&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/norabhop)
 
 ## 🚀 Interests
