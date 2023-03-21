@@ -2,6 +2,10 @@
 
 I'm a Software Developer with experience in Node.js, Python, and SourcePawn. I'm passionate about playing games and building things that bring people together. Currently, I'm developing CSGO servers and building a Discord bots for fun.
 
+<!-- Your Social Media and Portfolio Links -->
+[![Discord](https://img.shields.io/twitter/follow/Nora#1768?color=blue&label=Discord&logo=twitter&logoColor=white&style=for-the-badge)]([https://twitter.com/norabhop](https://discord.com/users/544567870776934431))
+[![Twitter](https://img.shields.io/twitter/follow/norabhop?color=blue&label=Twitter&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/norabhop)
+
 ## 🚀 Interests
 
 - Gaming
@@ -23,9 +27,6 @@ I'm a Software Developer with experience in Node.js, Python, and SourcePawn. I'm
 
 [![akanora's github stats](https://github-readme-stats.vercel.app/api?username=akanora&show_icons=true&theme=radical)](https://github.com/akanora)
 
-## 💡 Contributions
-
-[![John Doe's github activity graph](https://activity-graph.herokuapp.com/graph?username=akanora&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/akanora)
 
 <!--
 **akanora/akanora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
