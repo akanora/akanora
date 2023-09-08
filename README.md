@@ -29,7 +29,7 @@ I'm a Software Developer with experience in Node.js, Python, and SourcePawn. I'm
 
 ## 💡 Contributions
 
-[![None](https://youtu.be/dQw4w9WgXcQ)
+- [No One](https://youtu.be/dQw4w9WgXcQ)
 
 
 <!--
