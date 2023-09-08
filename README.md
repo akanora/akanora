@@ -29,7 +29,7 @@ I'm a Software Developer with experience in Node.js, Python, and SourcePawn. I'm
 
 ## 💡 Contributions
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akanora&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![None](https://youtu.be/dQw4w9WgXcQ)
 
 
 <!--
