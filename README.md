@@ -22,6 +22,7 @@ I'm a Software Developer with experience in Node.js, Python, and SourcePawn. I'm
 
 - [Discord Music Bot](https://github.com/akanora/bhop-music-bot)
 - [Discord Youtube Together](https://github.com/akanora/Youtube-Together)
+- [Salak Kedi](https://github.com/akanora/salak-kedi)
 
 ## 📈 Stats
 
