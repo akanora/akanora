@@ -40,17 +40,19 @@ I enjoy building systems that bring players and communities together — from co
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Ayberk's GitHub stats](https://github-readme-stats.vercel.app/api?username=akanora&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=akanora&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanora&layout=compact&theme=radical&cache_seconds=1800)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akanora&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanora&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🌍 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-Nora%231768-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/544567870776934431)
+[![Discord](https://img.shields.io/badge/Discord-lilynoraw-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/225406608644112384)
 
 [![Twitter](https://img.shields.io/twitter/follow/norabhop?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/norabhop)
 
