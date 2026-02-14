@@ -1,62 +1,77 @@
-# 👋 Hey, I'm Ayberk
+# Ayberk Alcan
 
-💻 Software Developer  
-🎮 CS Server Developer & Community Builder  
-🤖 Discord Bot Developer  
+Backend Developer • Game Server Engineer • Real-Time Systems
 
-I enjoy building systems that bring players and communities together — from competitive CS servers to feature-rich Discord bots.
+I build and maintain production-level game server systems, focusing on real-time data processing, performance, and automation.
 
 ---
 
-## 🚀 What I Do
+## Selected Projects
 
-- 🖥️ Develop and manage CS:GO / CS:S servers
-- 🤖 Build Discord bots (music, utilities, integrations)
-- 🔧 Backend development with Node.js & Python
-- 🧠 Custom SourcePawn plugins for advanced gameplay systems
+### Lodge Stats (Private Repository)
+Live: https://stats.lodgegaming.com.tr
 
----
+A live statistics platform for bhop servers.
 
-## 🛠 Tech Stack
+Features:
+- Displays world records and run data
+- Player performance tracking
+- Active server monitoring
+- Real-time synchronization with game servers
 
-![Node.js](https://img.shields.io/badge/Node.js-Backend-2bbc8a?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Automation-2bbc8a?style=flat&logo=python&logoColor=white)
-![SourcePawn](https://img.shields.io/badge/SourcePawn-Game%20Plugins-2bbc8a?style=flat&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Server%20Management-2bbc8a?style=flat&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2bbc8a?style=flat&logo=docker&logoColor=white)
+The system processes in-game events and presents structured statistics through a web interface.
 
 ---
 
-## 📌 Featured Projects
+### CS2-WeaponSpeed
+https://github.com/akanora/CS2-WeaponSpeed
 
-- 🎵 **Discord Music Bot**  
-  https://github.com/akanora/bhop-music-bot  
+A CS2 plugin that modifies player movement mechanics.
 
-- 📺 **YouTube Together Bot**  
-  https://github.com/akanora/Youtube-Together  
-
-- 🐱 **Salak Kedi**  
-  https://github.com/akanora/salak-kedi  
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=akanora&theme=radical&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akanora&theme=radical&hide_border=true)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akanora&theme=radical)
+Functionality:
+- Grants movement speed boost when firing a weapon
+- Adjusts gameplay flow and weapon interaction dynamics
+- Designed for controlled competitive environments
 
 ---
 
-## 🌍 Connect With Me
+### ODB WR Sender
+https://github.com/akanora/odb-wr-sender
 
-[![Discord](https://img.shields.io/badge/Discord-lilynoraw-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/225406608644112384)
-
-[![Twitter](https://img.shields.io/twitter/follow/norabhop?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/norabhop)
+Automates world record data transmission to the Offstyle database.
+Bridges in-game events with external data infrastructure.
 
 ---
 
-### ⚡ Fun Fact
-Most of my projects started “just for fun” — and somehow turned into full systems.
+### Discord Music Bot
+https://github.com/akanora/bhop-music-bot
+
+Custom-built Discord music bot designed for community servers.
+
+---
+
+### Salak Kedi
+https://github.com/akanora/salak-kedi
+
+Minimal terminal animation experiment.
+
+---
+
+## Technical Stack
+
+Node.js  
+Python  
+SourcePawn  
+Linux (Ubuntu)  
+Docker  
+Game Server Automation  
+Real-Time Event Processing  
+
+---
+
+## Focus
+
+- Game server infrastructure
+- Data pipelines between servers and web systems
+- Plugin development for CS:S / CS2
+- Performance-oriented backend systems
