@@ -46,7 +46,7 @@ I enjoy building systems that bring players and communities together — from co
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akanora&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanora&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akanora&theme=radical)
 
 ---
 
