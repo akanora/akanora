@@ -43,15 +43,6 @@ The plugin alters combat-movement dynamics and introduces custom gameplay behavi
 
 ---
 
-## ODB WR Sender
-
-https://github.com/akanora/odb-wr-sender
-
-Automates the transmission of world record data to the Offstyle database.
-Bridges in-game timer events with external ranking infrastructure.
-
----
-
 ## Technical Stack
 
 Node.js  
