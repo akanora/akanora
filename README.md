@@ -1,59 +1,54 @@
 # Ayberk Alcan
 
-Backend Developer • Game Server Engineer • Real-Time Systems
+Backend Developer • Game Server Engineer • Real-Time Ranking Systems
 
-I build and maintain production-level game server systems, focusing on real-time data processing, performance, and automation.
+I design and maintain production-level game server infrastructures with a focus on database-driven ranking systems, real-time synchronization, and performance-oriented backend architecture.
 
 ---
 
-## Selected Projects
+## LodgeStats (Private Repository)
 
-### Lodge Stats (Private Repository)
 Live: https://stats.lodgegaming.com.tr
 
-A live statistics platform for bhop servers.
+A live statistics and ranking platform directly connected to the bhop server timer database.
 
-Features:
-- Displays world records and run data
-- Player performance tracking
-- Active server monitoring
-- Real-time synchronization with game servers
+The system reads world record data from the same database used by the game servers and presents:
 
-The system processes in-game events and presents structured statistics through a web interface.
+- Real-time recent records feed
+- Map-based world records
+- Top player rankings
+- Style and track filtering (Main, Autostrafer, Segmented, etc.)
+- Player performance metrics (jumps, strafes, sync, points)
+- Active server monitoring (100 Tick / 128 Tick separation)
+
+The website reflects authoritative in-game data, ensuring full consistency between server records and web rankings.
+
+Core aspects:
+- Direct database integration
+- Ranking aggregation logic
+- Real-time activity feed
+- Multi-server synchronization
+- Structured stat computation (points, sync %, performance metrics)
 
 ---
 
-### CS2-WeaponSpeed
+## CS2-WeaponSpeed
+
 https://github.com/akanora/CS2-WeaponSpeed
 
-A CS2 plugin that modifies player movement mechanics.
+A CS2 gameplay modification plugin.
 
-Functionality:
-- Grants movement speed boost when firing a weapon
-- Adjusts gameplay flow and weapon interaction dynamics
-- Designed for controlled competitive environments
+When a player fires a weapon, a controlled movement speed boost is applied.
+The plugin alters combat-movement dynamics and introduces custom gameplay behavior for server environments.
 
 ---
 
-### ODB WR Sender
+## ODB WR Sender
+
 https://github.com/akanora/odb-wr-sender
 
-Automates world record data transmission to the Offstyle database.
-Bridges in-game events with external data infrastructure.
-
----
-
-### Discord Music Bot
-https://github.com/akanora/bhop-music-bot
-
-Custom-built Discord music bot designed for community servers.
-
----
-
-### Salak Kedi
-https://github.com/akanora/salak-kedi
-
-Minimal terminal animation experiment.
+Automates the transmission of world record data to the Offstyle database.
+Bridges in-game timer events with external ranking infrastructure.
 
 ---
 
@@ -64,14 +59,15 @@ Python
 SourcePawn  
 Linux (Ubuntu)  
 Docker  
-Game Server Automation  
-Real-Time Event Processing  
+SQL-based systems  
+Event-driven data processing  
+Game server automation  
 
 ---
 
-## Focus
+## Focus Areas
 
-- Game server infrastructure
-- Data pipelines between servers and web systems
-- Plugin development for CS:S / CS2
-- Performance-oriented backend systems
+- Database-backed ranking systems
+- Real-time server-to-web data pipelines
+- Competitive gameplay infrastructure
+- Performance-oriented backend design
